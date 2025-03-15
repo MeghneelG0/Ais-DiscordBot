@@ -1,0 +1,2 @@
+# Ais-DiscordBot
+toxicityDetector project 
